@@ -1,2 +1,2 @@
 # scraping with rvest in shiny
- Simple program showing how to scrape data with rvest in a Shiny web app
+ Simple demo showing how to scrape data with the rvest package in a Shiny web app
