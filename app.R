@@ -1,5 +1,5 @@
 library(shiny)
-library(rvest)
+library(tidyverse)
 
 ui <- fluidPage(
   titlePanel("Golden State Warriors Roster (1971-2020)"),
